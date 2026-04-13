@@ -1,0 +1,5 @@
+mp-api>=0.41.0
+pandas>=2.2.0
+pyarrow>=15.0.0
+pymatgen>=2024.6.10
+tqdm>=4.66.0 
