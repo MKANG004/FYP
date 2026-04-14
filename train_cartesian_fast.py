@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Pure Cartesian Model - Fast Version
-Quick training script optimized for large datasets.
-"""
-
 import argparse
 import json
 from datetime import datetime
