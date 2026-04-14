@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-CGCNN-style model for CSV data (MP_dataset.csv).
-Crystal Graph Convolutional Neural Network with edge distance features.
-Pure PyTorch implementation (no PyG required).
-"""
-
 import argparse
 import json
 from datetime import datetime
