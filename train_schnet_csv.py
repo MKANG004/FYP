@@ -1,9 +1,3 @@
-g#!/usr/bin/env python3
-"""
-SchNet model for CSV data (MP_dataset.csv).
-Uses continuous-filter convolutions on 3D coordinates.
-"""
-
 import argparse
 import json
 from datetime import datetime
